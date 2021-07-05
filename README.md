@@ -22,7 +22,9 @@
 
 **Others**-- 
 1.The reason to choose this dataset was large number of null values, presence of categorial features and numerical features, data  set was little lengthy containing records in lakhs.
+
 2.Tried to learn all techniques in depth used different techniques for encoding and outliers.
+
 3.We divided data into 3 ,one dataset  was not containing any null values , other dataset was containing  scaled data and no null values  and third one was containing only those features having high importance.
 
 
